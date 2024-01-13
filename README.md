@@ -6,21 +6,21 @@ This is a simple pathfinding visualizer implemented in Python using the Pygame l
 - Pygame 
 
 ## Usage
-- LMB: Place start and end nodes, create barriers
-- RMB: Remove start/end nodes and barriers
-- SPACE: Start program
-- ENTER: Clear the board
-- A* Button: Use A* algorithm (enabled by default)
-- Dijkstra Button: Use Dijkstra's algorithm (WIP)
+- **LMB**: Place start and end nodes, create barriers
+- **RMB**: Remove start/end nodes and barriers
+- **SPACE**: Start program
+- **ENTER**: Clear the board
+- **A Star Button**: Use A* algorithm (enabled by default)
+- **Dijkstra Button**: Use Dijkstra's algorithm (WIP)
 
 ### Node Colours
-- Empty Node: White
-- Start Node: Orange
-- End Node: Turquoise
-- Barrier Node: Black
-- Open Set Nodes: Green
-- Closed Set Nodes: Red
-- Path Nodes: Yellow
+- **Empty Node**: White
+- **Start Node**: Orange
+- **End Node**: Turquoise
+- **Barrier Node**: Black
+- **Open Set Nodes**: Green
+- **Closed Set Nodes**: Red
+- **Path Nodes**: Yellow
 
 ## Screenshots
 ![sample](https://github.com/mabelzhou/pathfinding-visualizer/assets/135676782/78874ab4-8ec6-49b7-8afd-6310cdfa3976)  
